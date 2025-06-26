@@ -28,13 +28,13 @@
       "url": "https://www.paypal.me/BenPotter"
     }
   ],
-  "homepage": "https://github.com/homebridge-plugins/homebridge-ewelink",
+  "homepage": "https://github.com/fsocietyipa/homebridge-ewelink-fan-board-support",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/homebridge-plugins/homebridge-ewelink.git"
+    "url": "git+https://github.com/fsocietyipa/homebridge-ewelink-fan-board-support.git"
   },
   "bugs": {
-    "url": "https://github.com/homebridge-plugins/homebridge-ewelink/issues"
+    "url": "https://github.com/fsocietyipa/homebridge-ewelink-fan-board-support/issues"
   },
   "keywords": [
     "homebridge",

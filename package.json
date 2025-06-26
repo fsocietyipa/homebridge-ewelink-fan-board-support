@@ -1,6 +1,6 @@
 {
-  "name": "@homebridge-plugins/homebridge-ewelink",
-  "displayName": "Homebridge eWeLink",
+  "name": "@homebridge-plugins/homebridge-ewelink-fan-board-support",
+  "displayName": "Homebridge eWeLink Fan Support",
   "alias": "eWeLink",
   "type": "module",
   "version": "12.4.1",

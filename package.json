@@ -1,5 +1,5 @@
 {
-  "name": "@homebridge-plugins/homebridge-ewelink-fan-board-support",
+  "name": "@fsocietyipa/homebridge-ewelink-fan-board-support",
   "displayName": "Homebridge eWeLink Fan Support",
   "alias": "eWeLink",
   "type": "module",
@@ -58,7 +58,8 @@
   },
   "scripts": {
     "lint": "eslint . --fix",
-    "rebuild": "rm -rf package-lock.json && rm -rf node_modules && npm install"
+    "rebuild": "rm -rf package-lock.json && rm -rf node_modules && npm install",
+    "watch": "rm -rf package-lock.json && rm -rf node_modules && npm install && hb-service link'"
   },
   "dependencies": {
     "@homebridge/plugin-ui-utils": "^2.0.1",
